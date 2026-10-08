@@ -11,6 +11,8 @@ It contains a simple Python calculator program that:
 - Displays today's date
 - Performs addition
 - Performs subtraction
+- Performs multiplication
+- Handles invalid input
 
 ## Technologies Used
 - Python
